@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+
+
+    android:layout_gravity="center_horizontal"
+
+    android:columnCount="4"
+    android:rowCount="4"
+
+    android:background="@color/black"
+    tools:context=".MainActivity">
+
+    <TextView android:text="Pere"
+
+        android:layout_row="0"
+        android:layout_column="0"
+
+        android:layout_width="match_parent"
+
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:paddingRight="4dp"
+        android:paddingLeft="4dp"
+
+        android:layout_margin="4dp"
+
+        android:textColor="@color/black"
+        android:background="@color/colorYellow"
+         />
+    <TextView android:text="Maria"
+
+        android:layout_row="0"
+        android:layout_column="1"
+
+        android:layout_width="match_parent"
+
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:paddingRight="4dp"
+        android:paddingLeft="4dp"
+
+        android:layout_margin="4dp"
+
+        android:textColor="@color/black"
+        android:background="@color/colorYellow"
+        />
+
+    <TextView  android:text="Joel"
+
+        android:layout_row="0"
+        android:layout_column="2"
+
+        android:layout_width="match_parent"
+
+        android:paddingRight="4dp"
+        android:paddingLeft="4dp"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+
+        android:layout_margin="4dp"
+
+        android:background="@color/colorYellow"
+        android:textColor="@color/black" />
+
+    <TextView android:text="Arnau"
+
+        android:layout_row="0"
+        android:layout_column="3"
+
+        android:layout_width="match_parent"
+
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:paddingRight="4dp"
+        android:paddingLeft="4dp"
+
+        android:layout_margin="4dp"
+
+        android:textColor="@color/black"
+        android:background="@color/colorYellow"
+        />
+    <TextView android:text="Sílvia"
+
+        android:layout_row="1"
+        android:layout_column="0"
+
+        android:layout_width="match_parent"
+
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:paddingRight="4dp"
+        android:paddingLeft="4dp"
+
+        android:layout_margin="4dp"
+
+        android:textColor="@color/black"
+        android:background="@color/colorYellow"
+        />
+    <TextView android:text="Marta"
+
+        android:layout_row="1"
+        android:layout_column="1"
+
+        android:layout_width="match_parent"
+
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:paddingRight="4dp"
+        android:paddingLeft="4dp"
+
+        android:layout_margin="4dp"
+
+        android:textColor="@color/black"
+        android:background="@color/colorYellow"
+        />
+
+    <TextView  android:text="Àlex"
+
+        android:layout_row="1"
+        android:layout_column="2"
+
+        android:layout_width="match_parent"
+
+        android:paddingRight="4dp"
+        android:paddingLeft="4dp"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+
+        android:layout_margin="4dp"
+
+        android:background="@color/colorYellow"
+        android:textColor="@color/black" />
+
+    <TextView android:text="Rosa"
+
+        android:layout_row="1"
+        android:layout_column="3"
+
+        android:layout_width="match_parent"
+
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:paddingRight="4dp"
+        android:paddingLeft="4dp"
+
+        android:layout_margin="4dp"
+
+        android:textColor="@color/black"
+        android:background="@color/colorYellow"
+        />
+    <TextView android:text="Pere"
+
+        android:layout_row="2"
+        android:layout_column="0"
+
+        android:layout_width="match_parent"
+
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:paddingRight="4dp"
+        android:paddingLeft="4dp"
+
+        android:layout_margin="4dp"
+
+        android:textColor="@color/black"
+        android:background="@color/colorYellow"
+        />
+    <TextView android:text="Andy"
+
+        android:layout_row="2"
+        android:layout_column="1"
+
+        android:layout_width="match_parent"
+
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:paddingRight="4dp"
+        android:paddingLeft="4dp"
+
+        android:layout_margin="4dp"
+
+        android:textColor="@color/black"
+        android:background="@color/colorYellow"
+        />
+
+    <TextView  android:text="Josep Maria"
+
+        android:layout_row="2"
+        android:layout_column="2"
+
+        android:layout_width="match_parent"
+
+        android:paddingRight="4dp"
+        android:paddingLeft="4dp"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+
+        android:layout_margin="4dp"
+
+        android:background="@color/colorYellow"
+        android:textColor="@color/black" />
+
+    <TextView android:text="Carles"
+
+        android:layout_row="2"
+        android:layout_column="3"
+
+        android:layout_width="match_parent"
+
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:paddingRight="4dp"
+        android:paddingLeft="4dp"
+
+        android:layout_margin="4dp"
+
+        android:textColor="@color/black"
+        android:background="@color/colorYellow"
+        />
+    <TextView android:text="Maria"
+
+        android:layout_row="3"
+        android:layout_column="0"
+
+        android:layout_width="match_parent"
+
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:paddingRight="4dp"
+        android:paddingLeft="4dp"
+
+        android:layout_margin="4dp"
+
+        android:textColor="@color/black"
+        android:background="@color/colorYellow"
+        />
+    <TextView android:text="Àngela"
+
+        android:layout_row="3"
+        android:layout_column="1"
+
+        android:layout_width="match_parent"
+
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:paddingRight="4dp"
+        android:paddingLeft="4dp"
+
+        android:layout_margin="4dp"
+
+        android:textColor="@color/black"
+        android:background="@color/colorYellow"
+        />
+
+    <TextView  android:text="Iu"
+
+        android:layout_row="3"
+        android:layout_column="2"
+
+        android:layout_width="match_parent"
+
+        android:paddingRight="4dp"
+        android:paddingLeft="4dp"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+
+        android:layout_margin="4dp"
+
+        android:background="@color/colorYellow"
+        android:textColor="@color/black" />
+
+    <TextView android:text="Júlia"
+
+        android:layout_row="3"
+        android:layout_column="3"
+
+        android:layout_width="match_parent"
+
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:paddingRight="4dp"
+        android:paddingLeft="4dp"
+
+        android:layout_margin="4dp"
+
+        android:textColor="@color/black"
+        android:background="@color/colorYellow"
+        />
+
+</GridLayout>
