@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">LinearLayout</string>
     <string name="acces_dades"><b>acc. a dades</b>\nadrià</string>
+    <string name="rojo">rojo</string>
+
 </resources>
